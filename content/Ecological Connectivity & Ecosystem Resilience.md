@@ -9,35 +9,23 @@ tags:
 draft: false
 date: 14/01/2025
 ---
-## Ecological Connectivity & Ecosystem Resilience
-
-Ecological connectivity is the lifeline of biodiversity, and ecosystem resilience is its shield against disruption. Together, they ensure nature’s ability to adapt, recover, and thrive.
+## Ecological Connectivity
 
 ### Context
 
-> Landscapes facing fragmentation, biodiversity loss, climate stress. Especially in regions with expanding human development, shifting disturbance regimes, or species-at-risk concerns.
+> Landscapes facing fragmentation and biodiversity loss. Specifically those in regions with expanding human development and species-at-risk concerns.
 
-### Problem
+### Requirement
 
-> Loss of connectivity between habitats disrupts species movement, gene flow, and ecosystem processes. This reduces resilience to disturbances like fire, drought, and invasive species, and undermines long-term biodiversity.
-
-### Forces
-
-- Habitat fragmentation vs. development pressures
-- Species-specific movement needs vs. generalised planning
-- Short-term infrastructure goals vs. long-term ecological health
-- Cultural stewardship vs. regulatory constraints
+> Species require sufficient core habitat to forage, rest, and find mates. And these habitat cores must be connected to ensure robust populations can be sustained with strong genetic diversity.
 
 ### Solution
 
-> Design and maintain multi-scale ecological networks that support species movement, seasonal migration, and ecosystem processes. Integrate natural corridors, stepping stones, and refugia with cultural stewardship and adaptive management.
+> Design, implement, and maintain ecological networks that support species movement, seasonal migration, and other ecosystem processes. Integrate natural corridors, stepping stones, and refugia with cultural stewardship and adaptive management.
 
-### Examples
+### Why It Works
 
-- Sea-to-Sky corridor amphibian crossings and riparian buffers
-- Indigenous-led fire stewardship enhancing post-disturbance regeneration
-- Connectivity overlays in regional land-use planning
-- Beaver-driven wetland restoration supporting drought resilience
+> In a connected landscape, species are able to meet their needs to survive, and are able to better adapt to human-caused disturbance. 
 
 ### Related Patterns
 
