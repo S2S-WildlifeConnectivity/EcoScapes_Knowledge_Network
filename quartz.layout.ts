@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "EcoScapes": "https://newdev.naturesquamish.ca",
-      "Nature Squamish": "https://naturesquamish.ca",
+      "Nature Squamish": "https://www.squamishenvironment.ca",
     },
   }),
 }
