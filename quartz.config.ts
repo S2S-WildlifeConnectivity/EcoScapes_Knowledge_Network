@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "EcoScapes",
-    pageTitleSuffix: "Knowledge Network",
+    pageTitleSuffix: ,
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
